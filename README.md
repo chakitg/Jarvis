@@ -43,7 +43,7 @@ Let's be honest, it's not as intelligent as in the movie, but it can do a lot of
 - Make a new python environment If you are using anaconda just type `conda create -n jarvis python==3.8.5`  in anaconda prompt
 - To activate the environment conda activate jarvis
 - Navigate to the directory of your project
-- Install all the requirements by just hitting pip install -r requirements.txt
+- Install all the requirements by just hitting `pip install -r requirements.txt`
 - Install PyAudio
 - Run the program
 - Enjoy !!!!
