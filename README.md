@@ -51,13 +51,13 @@ Let's be honest, it's not as intelligent as in the movie, but it can do a lot of
 
 ├── driver
 
-├── Jarvis              # Main folder for features 
+├── Jarvis              > Main folder for features 
 
-│   ├── config          # Contains all secret API Keys
+│   ├── config          > Contains all secret API Keys
 
-│   └── features        # All functionalities of JARVIS 
+│   └── features        > All functionalities of JARVIS 
 
-├── requirements.txt    # all dependencies of the program
+├── requirements.txt    > all dependencies of the program
 
 - The code structure if pretty simple. The code is completely modularized and is highly customizable
 
